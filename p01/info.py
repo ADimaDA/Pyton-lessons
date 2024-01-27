@@ -1,0 +1,5 @@
+name=inpurt("Введіть імя школи")
+name=inpurt("Введіть кш")
+name=inpurt("Введіть ")
+name=inpurt("Введіть ")
+name=inpurt("Введіть ")
